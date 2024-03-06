@@ -1,1 +1,1 @@
-"# Check-Armstrong-number" 
+"# check-if-Armstrong" 
